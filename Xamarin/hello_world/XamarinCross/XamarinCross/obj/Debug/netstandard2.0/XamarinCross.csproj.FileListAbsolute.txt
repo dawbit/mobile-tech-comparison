@@ -1,0 +1,12 @@
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\bin\Debug\netstandard2.0\XamarinCross.deps.json
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\bin\Debug\netstandard2.0\XamarinCross.dll
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\bin\Debug\netstandard2.0\XamarinCross.pdb
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamarinCross.csprojAssemblyReference.cache
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamarinCross.csproj.CoreCompileInputs.cache
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamarinCross.AssemblyInfoInputs.cache
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamarinCross.AssemblyInfo.cs
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamarinCross.dll
+C:\Users\karne\source\repos\XamarinCross\XamarinCross\XamarinCross\obj\Debug\netstandard2.0\XamarinCross.pdb
